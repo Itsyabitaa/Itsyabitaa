@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Itsyabitaa
-- 👀 I’m interested in ...
+- 👀 I’m interested in probem solving
 - 🌱 I’m currently learning ...# 💫 About Me:
 I'm CURRENTLy working on laravel 11 <br>i'm learning golang language <br>i prefer to use laravel
 
