@@ -1,3 +1,9 @@
+# Welcome to My GitHub Profile!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## About Me
 - 👋 Hi, I’m @Itsyabitaa
 - 👀 I’m interested in probem solving
 - 🌱 I’m currently learning machine learning 
@@ -5,6 +11,11 @@
 I'm currently working on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
 
 
+Here you can add more information about yourself...
+
+
+
+Here you can list your projects...
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kukusha0514) [![LinkedIn](https://(www.linkedin.com/in/engkukusha](www.linkedin.com/in/engkukusha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/itsyabitaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@talkingtomato) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mega tube) 
 
