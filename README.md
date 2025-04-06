@@ -3,6 +3,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ## About Me
 - 👋 Hi, I’m @Itsyabitaa
 - 👀 I’m interested in probem solving
@@ -10,9 +11,8 @@
 💫 About Me:
 I'm currently working on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
 
-
-Here you can add more information about yourself...
-
+## GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Itsyabitaa)
 
 
 Here you can list your projects...
