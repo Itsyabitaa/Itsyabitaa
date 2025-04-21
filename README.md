@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
-- 👋 Hi, I’m @Itsyabitaa
+- 👋 Hi, I’m Yeabsira Endale
 - 👀 I’m interested in probem solving
 - 🌱 I’m currently learning machine learning 
 💫 About Me:
