@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Itsyabitaa
+# Welcome to My GitHub Profile!
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## About Me
+- 👋 Hi, I’m Yeabsira Endale
 - 👀 I’m interested in probem solving
-- 🌱 I’m currently learning ...# 💫 About Me:
-I'm CURRENTLy working on laravel 11 <br>i'm learning golang language <br>i prefer to use laravel
+- 🌱 I’m currently learning machine learning 
+💫 About Me:
+I'm currently working on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
+
+## GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Itsyabitaa)
 
 
+Here you can list your projects...
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kukusha0514) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/engkukusha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/itsyabitaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@talkingtomato) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mega tube) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kukusha0514) [![LinkedIn](https://(www.linkedin.com/in/engkukusha](www.linkedin.com/in/engkukusha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/itsyabitaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@talkingtomato) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mega tube) 
 
 
 # 💻 Tech Stack:
