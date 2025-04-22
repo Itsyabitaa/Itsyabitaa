@@ -3,8 +3,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-## 🚀 My Coding Activity
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kukusha0514&theme=merko&hide_border=true&layout=compact&show_icons=true&range=last_7 years)](https://wakatime.com/@Itsyabitaa)
+## 🚀 My Coding Activity[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kukusha0514&theme=merko&hide_border=true&layout=compact&show_icons=true&range=all_time)](https://wakatime.com/@Itsyabitaa)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
