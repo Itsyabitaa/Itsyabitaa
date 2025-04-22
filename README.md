@@ -3,7 +3,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+## 🚀 My Coding Activity
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itsyabitaa&theme=radical&hide_border=true&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
