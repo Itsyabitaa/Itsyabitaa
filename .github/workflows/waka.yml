@@ -10,11 +10,17 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.WAKATIME_GH_TOKEN }}  # GitHub token with repo access
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
+          LANG_COUNT: 5
+          COMMIT_MESSAGE: "Updated waka-readme stats"
+          TARGET_BRANCH: "main"  # Change this if your default branch is not main
+          TARGET_PATH: "README.md"
