@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## 🚀 My Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itsyabitaa&theme=radical&hide_border=true&layout=compact)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Itsyabitaa&theme=merko&hide_border=true&layout=compact&show_icons=true&range=last_7_days)](https://wakatime.com/@Itsyabitaa)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
