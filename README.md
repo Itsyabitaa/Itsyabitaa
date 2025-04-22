@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
