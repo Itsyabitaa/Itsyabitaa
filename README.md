@@ -5,7 +5,6 @@
 <!--END_SECTION:waka-->
 ## 🚀 My Coding Activity
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kukusha0514&theme=merko&hide_border=true&layout=compact&show_icons=true&range=all_time)](https://wakatime.com/@Itsyabitaa)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kukusha0514/d4cbdb2e-0d86-46c8-9b3d-608f6af5713c.png" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
