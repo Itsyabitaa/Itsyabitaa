@@ -9,7 +9,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## About Me
-- 👋 Hi, I’m Yeabsira Endale
+- 👋 Hi, I’m Yeabsira Endale Bekele
 - 👀 I’m interested in probem solving
 - 🌱 I’m currently learing python 
 💫 About Me:
