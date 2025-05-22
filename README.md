@@ -11,7 +11,7 @@
 ## About Me
 - 👋 Hi, I’m Yeabsira Endale
 - 👀 I’m interested in probem solving
-- 🌱 I’m currently learing python 
+- 🌱 I’m currently learing cs50 ai
 💫 About Me:
 I'm currently working on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
 
