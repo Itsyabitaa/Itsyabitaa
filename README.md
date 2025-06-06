@@ -1,4 +1,10 @@
 # Welcome to My GitHub Profile!
+## About Me
+- 👋 Hi, I’m Yeabsira Endale
+- 👀 I’m interested in probem solving
+- 🌱 I’m currently learing cs50 ai
+💫 About Me:
+I'm currently working on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Itsyabitaa&color=blue)
 <!--START_SECTION:waka-->
@@ -8,13 +14,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=highcontrast&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## About Me
-- 👋 Hi, I’m Yeabsira Endale
-- 👀 I’m interested in probem solving
-- 🌱 I’m currently learing cs50 ai
-💫 About Me:
-I'm currently work
-ing on laravel and express more over on the backend<br>i'm learning golang language <br>i prefer to use laravel<br> i have an insite of flutter,  java, c++, c# and adobe photoshop
 
 ## GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Itsyabitaa)
