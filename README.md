@@ -49,8 +49,7 @@ I transform coffee into scalable backend systems and elegant algorithms. Current
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Metrics](https://metrics.lecoq.io/Itsyabitaa?template=terminal&base.indepth=false&config.timezone=Africa%2FAddis_Ababa)
-
+![Metrics](https://github-readme-stats.vercel.app/api?username=Itsyabitaa&show_icons=true&theme=radical&include_all_commits=true)
 </div>
 
 ---
