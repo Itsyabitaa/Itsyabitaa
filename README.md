@@ -7,7 +7,7 @@
 ## About Me
 Passionate backend developer specializing in scalable APIs and modern backend stacks. Currently learning **CS50 AI** and **Golang** while advancing skills in **Laravel** and **Express.js**.
 
-- 💻 Experienced in **Flutter**, **Java**, **C++**, **C#**, and **Adobe Photoshop**.
+- 💻 Experienced in **Flutter**, **Laravel**, **C++**, **Math**, and **Adobe Photoshop**.
 - 🚀 Committed to clean code, continuous learning, and problem-solving.
 
 ---
