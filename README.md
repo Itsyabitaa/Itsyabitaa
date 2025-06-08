@@ -78,7 +78,7 @@ I'm always open to:
 💡 Technical discussions  
 🚀 Innovative projects  
 
-📫 Reach me at: **yeabsira.endale@example.com**  
+📫 Reach me at: **yeabsira0514@gmail.com**  
 
 <div align="center">
 
