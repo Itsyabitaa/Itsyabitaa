@@ -7,7 +7,7 @@
 I transform coffee into scalable backend systems and elegant algorithms. Currently:  
 
 - 🔭 **Engineering** robust APIs with **Laravel/Express** while diving deep into **Golang's** concurrency model  
-- 🌱 **Training** neural networks in **CS50 AI** and mastering **clean architecture** principles  
+- 🌱 **Training** neural networks in **CS50 AI** and mastering **clean architecture** principles🔥
 - 💡 **Solving** complex problems at the intersection of **backend systems** and **applied mathematics**  
 - 🎨 **Designing** pixel-perfect interfaces when not optimizing database queries  
 
