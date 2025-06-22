@@ -66,7 +66,7 @@ I transform coffee into scalable backend systems and elegant algorithms. Current
 
 📜 ["When to Choose MongoDB vs MySQL for Your Next Project"](https://example.com)  
 📜 ["Building Concurrent Systems in Golang: Patterns and Pitfalls"](https://example.com)  
-📜 ["Laravel Performance Optimization: Beyond the Basics"](https://example.com)  
+ 
 
 ---
 
