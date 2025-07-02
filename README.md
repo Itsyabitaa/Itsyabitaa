@@ -46,9 +46,6 @@ I transform coffee into scalable backend systems and elegant algorithms. Current
 <div align="center">
   
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=itsyabitaa&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Metrics](https://github-readme-stats.vercel.app/api?username=Itsyabitaa&show_icons=true&theme=radical&include_all_commits=true)
 </div>
 
