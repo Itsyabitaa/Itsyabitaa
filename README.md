@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Yeabsira Endale 👋  
-### **Backend Architect** | **AI Explorer** | **Code Chemist**  
+### **Backend Architect** | **AI Explorer** | **Code Chemist** | **Hackton Participant**
 
 ---
 
