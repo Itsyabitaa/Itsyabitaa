@@ -13,9 +13,11 @@ I transform coffee into scalable backend systems and elegant algorithms. Current
 
 **Tech Philosophy:** *"First make it work, then make it right, finally make it fast"* - Kent Beck  
 
----
-![GitHub Streak](https://streak-stats.demolab.com?user=Itsyabitaa&theme=dark&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&background=000000)
+---## 📊 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Itsyabitaa&theme=dark&ring=FFA500&fire=FFA500&currStreakNum=FFFFFF&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&background=000000" />
+</p>
 
 ## 🛠️ **Tech Arsenal**  
 
